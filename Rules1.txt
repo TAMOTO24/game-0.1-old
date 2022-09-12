@@ -1,0 +1,9 @@
+You need to unlock the door = ( | ), taking all points = ( + ) and a key = ( 0 );
+@ - you;
+? - Enemy;
+$ - Door lock;
+= - key to unlock $ - (Door);
+# - walls;
++ - point;
+| - Locked global door;
+] - Door is open;
